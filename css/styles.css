@@ -16,7 +16,7 @@
     background-position: center;
     display: flex;
     justify-content: center;
-
+    filter: brightness(90%);
 }
 
 .hero__header-wrapper .hero__button {
@@ -36,7 +36,7 @@
 
 .hero__button {
     position: absolute;
-    background-color: white;
+    background-color:black;
     text-align: center;
     margin-top: 5em;
     opacity: 0.5;
@@ -49,7 +49,7 @@
     height: 3em;
     text-align: center;
     line-height: 287%;
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 1.3em;
 
